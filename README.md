@@ -1,4 +1,4 @@
-# pytest-summary
+# pytest-summary  
 This tool prepares self-contained html file with the summary of pytest tests that have been run. This file can be emailed e.g. by Jenkins to anyone interested of results of the build. 
 
 # Usage
@@ -53,5 +53,10 @@ This tool has been developed for specific environment, some of its architecture 
 Feel free to make this tool more general, add tests, configuration and everything 
 testers and test managers might need.
 
+# Main contributors
+  - Jan Sabak - AmberTeam Testing
+
+
 # Acknowledgements
 Idea of this little tool has been proposed by Ziemowit Buchalski during web automation tests for [Rankomat](https://rankomat.pl/)
+
